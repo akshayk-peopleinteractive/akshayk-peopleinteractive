@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Akshay Khale
+- 👀 I’m interested in Coding, Writing, Machine learning, philosophy, and front-end experiments.
+- 📫 How to reach me akshay.k@peopleinteractive.in or khaleakshay@gmail.com
